@@ -1,0 +1,2 @@
+[pre-commit-hook]
+disable=C0115, C0116, E1101
