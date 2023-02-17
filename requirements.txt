@@ -4,3 +4,4 @@ isort
 pylint
 pytest
 pre-commit
+pytz
