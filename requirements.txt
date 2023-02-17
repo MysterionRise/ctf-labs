@@ -5,4 +5,3 @@ pylint
 pytest
 pre-commit
 pytz
-jsonify
