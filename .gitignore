@@ -132,3 +132,6 @@ pynecone.db
 /venv/
 .idea
 __pycache__
+/exploit.education/images/*.tar.xz
+/exploit.education/images/exploit-education-phoenix-arm64/
+*.bin
