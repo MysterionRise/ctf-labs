@@ -1,7 +1,0 @@
-pynecone-io
-black
-isort
-pylint
-pytest
-pre-commit
-pytz
